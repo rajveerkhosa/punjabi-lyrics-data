@@ -1,0 +1,14 @@
+{
+  "title": "Insane",
+  "slug": "insane",
+  "artist": { "name": "AP Dhillon", "slug": "ap_dhillon" },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "g": ["ਗੱਡੀ ਲੈਕੇ ਘੁੰਮਦਾ,"],
+      "r": ["gaḍḍī laike ghumdā,"],
+      "t": ["He rides around in his car,"]
+    }
+  ]
+}
+
